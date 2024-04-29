@@ -7,8 +7,6 @@ version: 1.0.0
 image: "ghcr.io/digi92/{arch}hassio-addon-dyndns"
 slug: dyndns
 hassio_api: true
-hassio_role: default
-apparmor: true
 init: false
 arch:
   - aarch64
