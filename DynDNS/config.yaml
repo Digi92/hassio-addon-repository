@@ -3,7 +3,7 @@ name: DynDNS
 description: >-
   With this add-on, various Dynamic DNS (DynDNS or DDNS) services can be connected to your Home Assistant instance.
 url: "https://github.com/Digi92/hassio-addon-repository/tree/main/DynDNS"
-version: 1.0.0
+version: 1.0.1
 image: "ghcr.io/digi92/{arch}hassio-addon-dyndns"
 slug: dyndns
 hassio_api: true
